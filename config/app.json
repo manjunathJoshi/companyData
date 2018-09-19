@@ -1,0 +1,9 @@
+{
+"api_url":{
+    "url":"",
+    "api_key":"xxxxxxxxxxxxxxxxx"
+},
+"db":{
+    "uri":"xxxxxxxxxxxxxxxxxxxxxxxxxx"
+}
+}
