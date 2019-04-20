@@ -1,4 +1,6 @@
 # companyData
+
+A Node.js Application which,
 Fetch company data from external api and push into personal Mongo DB in Node.js
 
 Build API
