@@ -1,7 +1,11 @@
 # companyData
 
-A Node.js Application which,
-Fetch company data from external api and push into personal Mongo DB in Node.js
+A Node.js Application,
+CRUD Opertion with enhanced http protocol.
+MONGO DB
+
+Fetch data from external api and push into personal Mongo DB in Node.js
+
 
 Build API
 1.get all company data from external api and dump in persnal database i.e MONGO DB.
